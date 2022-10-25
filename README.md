@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Project Name](https://github.com/JulianHalsey)
+  - [Project Name](https://github.com/JulianHalsey/Test)
 
 <h2>🎖 Competitions:</h2>
 
