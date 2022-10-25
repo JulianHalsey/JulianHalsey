@@ -1,5 +1,9 @@
 <h1>Hi, I'm Julian!</h1>
 
+<h2>👨‍💻 Computer Science Projects:</h2>
+
+  - [Bank Program]()
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Project Name](https://github.com/JulianHalsey/Test)
