@@ -7,7 +7,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Linux Overview](https://github.com/JulianHalsey/Linux-Overview)
-  - [Wireshark Overview]()
+  - [Wireshark Overview](https://github.com/JulianHalsey/Wireshark-Overview)
 
 <h2>🎖 Competitions:</h2>
 
