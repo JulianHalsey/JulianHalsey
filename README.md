@@ -6,6 +6,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Phishing Project](https://github.com/JulianHalsey/PhishingProject/blob/main/README.md)
   - [Linux Overview](https://github.com/JulianHalsey/Linux-Overview)
   - [Kali Linux Tools](https://github.com/JulianHalsey/KaliLinuxTools)
   - [Wireshark Overview](https://github.com/JulianHalsey/Wireshark-Overview)
