@@ -2,7 +2,7 @@
 
 <h2>💻 Computer Science Projects:</h2>
 
-  - [Bank Program](https://github.com/JulianHalsey/ATM-Project)
+  - [Bank ATM Program](https://github.com/JulianHalsey/ATM-Project)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
