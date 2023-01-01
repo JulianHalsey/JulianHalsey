@@ -18,7 +18,7 @@
   
 <h2>🎖 Competitions:</h2>
 
-- National Cyber league (2022)
+- National Cyber League (2022)
 - NSA CodeBreaker (2022)
 - CSAW ctf (2022)
 
