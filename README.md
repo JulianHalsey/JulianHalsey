@@ -14,7 +14,7 @@
   - [Kali Linux Tools](https://github.com/JulianHalsey/KaliLinuxTools)
   - [Wireshark Overview](https://github.com/JulianHalsey/Wireshark-Overview)
   - [Burp Suite Overview](https://github.com/JulianHalsey/BurpSuite/blob/main/README.md)
-  - [CCDC Notes]()
+  - [CCDC Notes](https://github.com/JulianHalsey/CCDC)
   
 <h2>🎖 Competitions:</h2>
 
