@@ -11,10 +11,13 @@
 <h2>🗒️ Notes:</h2>
 
   - [Linux Commands](https://github.com/JulianHalsey/Linux-Overview)
+  - [Git Notes](https://github.com/JulianHalsey/Git-Overview/blob/main/README.md)
+  - [CCDC Notes](https://github.com/JulianHalsey/CCDC)
   - [Kali Linux Tools](https://github.com/JulianHalsey/KaliLinuxTools)
   - [Wireshark Overview](https://github.com/JulianHalsey/Wireshark-Overview)
   - [Burp Suite Overview](https://github.com/JulianHalsey/BurpSuite/blob/main/README.md)
-  - [CCDC Notes](https://github.com/JulianHalsey/CCDC)
+  
+
   
 <h2>🎖 Competitions:</h2>
 
