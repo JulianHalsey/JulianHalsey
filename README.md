@@ -21,8 +21,8 @@
   
 <h2>🎖 Competitions:</h2>
 
-- National Cyber League (2022)
-- NSA CodeBreaker (2022)
+- National Cyber League (2022-2023)
+- MACCDC (2023)
 - CSAW ctf (2022)
 
 <h2> 🤳 Connect with me:</h2>
