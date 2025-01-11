@@ -3,7 +3,7 @@
 <h2>💻 Computer Science Projects:</h2>
 
   - [Bank ATM Program](https://github.com/JulianHalsey/ATM-Project)
-  - [Discussion Board Group Project](https://github.com/JulianHalsey/RoarBoard)
+  - [Club Page Group Project](https://github.com/JulianHalsey/RoarBoard)
   - [File Management Simulation Group Project](https://github.com/JulianHalsey/FileSimulation)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
